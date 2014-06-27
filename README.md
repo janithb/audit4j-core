@@ -4,8 +4,8 @@ audit4j
 Audit4j is a complete audit suit which can be used to audit Server events, application events and database events.  The architecture is designed to achieve high modularity and high performance.
 
 
-Project Home: http://www.mechanizedspace.com/audit4j/
+Project Home: http://audit4j.org
 
-Doccumentation: http://www.mechanizedspace.com/audit4j/documentation/
+Doccumentation: http://audit4j.org/documentation/
 
-Faq: http://www.mechanizedspace.com/audit4j/faq/
+Faq: http://audit4j.org/faq/
